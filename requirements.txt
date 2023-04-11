@@ -1,0 +1,5 @@
+plotly
+jupyter
+scikit-learn
+pandas-profiling
+prophet
